@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1660708030 source:c:\users\rashid\alx_repositories\projects_trials\structures\struct\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<stdbool.h>
+

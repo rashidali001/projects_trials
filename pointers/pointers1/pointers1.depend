@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1660683409 source:c:\users\rashid\alx_repositories\projects_trials\pointers\pointers1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1660683834 source:c:\users\rashid\alx_repositories\projects_trials\pointers\pointers1\pointers2.c
+	<stdio.h>
+
+1660683875 source:c:\users\rashid\alx_repositories\projects_trials\pointers\pointers2.c
+
