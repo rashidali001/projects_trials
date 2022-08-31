@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661110660 source:c:\users\rashid\alx_repositories\projects_trials\0x01\e\main.c
+	<stdio.h>
+	<stdlib.h>
+

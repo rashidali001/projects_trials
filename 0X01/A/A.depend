@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661100553 source:c:\users\rashid\alx_repositories\projects_trials\0x01\a\main.c
+	<stdlib.h>
+	<time.h>
+
