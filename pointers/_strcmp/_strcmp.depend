@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663224201 source:c:\users\rashid\alx_repositories\projects_trials\pointers\_strcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

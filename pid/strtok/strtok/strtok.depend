@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1662502037 source:c:\users\rashid\alx_repositories\projects_trials\pid\strtok\strtok\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

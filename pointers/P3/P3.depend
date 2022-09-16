@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663131325 source:c:\users\rashid\alx_repositories\projects_trials\pointers\p3\main.c
+	<stdio.h>
+	<string.h>
+
