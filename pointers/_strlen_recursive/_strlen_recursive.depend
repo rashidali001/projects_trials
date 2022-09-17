@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663320210 source:c:\users\rashid\alx_repositories\projects_trials\pointers\_strlen_recursive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663306313 source:c:\users\rashid\alx_repositories\projects_trials\pointers\cap_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
